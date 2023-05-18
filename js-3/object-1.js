@@ -18,3 +18,5 @@ for (var key in pedro) {
 
 console.log(pedro.nombre);
 console.log(pedro.saluda());
+
+console.log("Hola")

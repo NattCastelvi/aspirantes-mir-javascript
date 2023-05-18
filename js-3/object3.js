@@ -14,3 +14,4 @@ for (var i = 0; i < receta.ingredientes.length; i++) {
 }
 
 console.log("La cantidad total de ingresientes es: " + totalCantidad);
+console.log("Hola")

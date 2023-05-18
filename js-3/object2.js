@@ -20,3 +20,4 @@ console.log(persona.hobbies);
 for (var i = 0; i < persona.hobbies.length; i++) {
     console.log(persona.hobbies[i]);
 }
+console.log("Hola")
